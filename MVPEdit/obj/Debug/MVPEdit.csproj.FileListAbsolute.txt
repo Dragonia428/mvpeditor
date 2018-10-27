@@ -1,0 +1,9 @@
+C:\Users\John G Settineri\source\repos\MVPEdit\MVPEdit\bin\Debug\MVPEdit.exe.config
+C:\Users\John G Settineri\source\repos\MVPEdit\MVPEdit\bin\Debug\MVPEdit.exe
+C:\Users\John G Settineri\source\repos\MVPEdit\MVPEdit\bin\Debug\MVPEdit.pdb
+C:\Users\John G Settineri\source\repos\MVPEdit\MVPEdit\obj\Debug\MVPEdit.csprojAssemblyReference.cache
+C:\Users\John G Settineri\source\repos\MVPEdit\MVPEdit\obj\Debug\MVPEdit.Properties.Resources.resources
+C:\Users\John G Settineri\source\repos\MVPEdit\MVPEdit\obj\Debug\MVPEdit.csproj.GenerateResource.cache
+C:\Users\John G Settineri\source\repos\MVPEdit\MVPEdit\obj\Debug\MVPEdit.csproj.CoreCompileInputs.cache
+C:\Users\John G Settineri\source\repos\MVPEdit\MVPEdit\obj\Debug\MVPEdit.exe
+C:\Users\John G Settineri\source\repos\MVPEdit\MVPEdit\obj\Debug\MVPEdit.pdb
