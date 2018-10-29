@@ -24,10 +24,24 @@ namespace MVPEdit
             StreamReader reader = new StreamReader(@"C:\Users\John G Settineri\Documents\MVPedit\database\attrib.dat");
             string strAllFile = reader.ReadToEnd().Replace("\r\n", "\n").Replace("\n\r", "\n");
             string[] arrLines = strAllFile.Split(new char[] { '\n' });
-           
+            List<String> lines = new List<String>();
+            int i = 0;
             foreach(var line in arrLines)
             {
-                //var splitLines = line.Select(i => i.Split(' ')[1]);
+                i++;
+                try
+                {
+                    var split = line.Split(',');
+                    lines.Add(split.);
+                }
+                catch(IndexOutOfRangeException ie)
+                {
+
+                }
+            }
+            
+            foreach(var line in lines)
+            {
                 Console.WriteLine(line);
             }
         }

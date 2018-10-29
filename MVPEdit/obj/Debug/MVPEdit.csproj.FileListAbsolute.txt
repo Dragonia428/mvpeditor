@@ -7,3 +7,4 @@ C:\Users\John G Settineri\source\repos\MVPEdit\MVPEdit\obj\Debug\MVPEdit.csproj.
 C:\Users\John G Settineri\source\repos\MVPEdit\MVPEdit\obj\Debug\MVPEdit.csproj.CoreCompileInputs.cache
 C:\Users\John G Settineri\source\repos\MVPEdit\MVPEdit\obj\Debug\MVPEdit.exe
 C:\Users\John G Settineri\source\repos\MVPEdit\MVPEdit\obj\Debug\MVPEdit.pdb
+C:\Users\John G Settineri\source\repos\MVPEdit\MVPEdit\obj\Debug\MVPEdit.Form1.resources
